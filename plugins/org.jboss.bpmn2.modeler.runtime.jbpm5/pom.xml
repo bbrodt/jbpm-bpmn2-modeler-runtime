@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <artifactId>plugins</artifactId>
+    <groupId>org.jboss.jbpm.bpmn2.modeler.runtime</groupId>
+    <version>0.2.0-SNAPSHOT</version>
+  </parent>
+
+  <groupId>org.jboss.jbpm.bpmn2.modeler.runtime</groupId>
+  <artifactId>org.jboss.bpmn2.modeler.runtime.jbpm5</artifactId>
+  <version>0.2.0-SNAPSHOT</version>
+  <packaging>eclipse-plugin</packaging>
+  <name>jBPM5 plugin</name>
+  <description>BPMN2 Modeler Runtime Specialization for JBoss jBPM5</description>
+</project>
